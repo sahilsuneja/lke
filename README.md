@@ -1,3 +1,4 @@
+<!---
 # linux-kernel-exploits
 
 ### 简介
@@ -202,4 +203,4 @@ linux-kernel-exploits
 
 &copy;<a href="https://www.sec-wiki.com" target="_blank">SecWiki</a> 2017
 
-
+--->
